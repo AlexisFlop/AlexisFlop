@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there
+### I'm Henry Alexis Flores Lopez, but you can call me AlexisFlop 👋
 
-<!--
-**AlexisFlop/AlexisFlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+🔹 I'm a Universidad Centro Americana Jose Simeon Cañas student, El Salvador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning
-![CSHARP](https://img.shields.io/badge/Desktop_Applications-007DDA?style=for-the-badge&logo=android%logoColor=white&labelColor=white)</br>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+❤ Languages i learned to use:
+
+![CPLUSPLUS](https://img.shields.io/badge/Console_Applications-007DDA?style=for-the-badge&logo=cplusplus&logoColor=5E97D0&labelColor=white)</br>
+![CSHARP](https://img.shields.io/badge/Desktop_Applications-007DDA?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=white)</br>
+
+💙 Languages i'm currently learning:
+
+![KOTLIN](https://img.shields.io/badge/Mobile_Applications-007DDA?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=white)</br>
+![JAVASCRIPT](https://img.shields.io/badge/Web_Developer-007DDA?style=for-the-badge&logo=javascript&logoColor=F48131&labelColor=white)</br>
+![JAVASCRIPT](https://img.shields.io/badge/Web_Designer-007DDA?style=for-the-badge&logo=css3&logoColor=F48131&labelColor=white)</br>
+
+
