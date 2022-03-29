@@ -7,6 +7,7 @@
 
 ![CPLUSPLUS](https://img.shields.io/badge/Console_Applications-007DDA?style=for-the-badge&logo=cplusplus&logoColor=5E97D0&labelColor=white)</br>
 ![CSHARP](https://img.shields.io/badge/Desktop_Applications-007DDA?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=white)</br>
+![PAWN](https://img.shields.io/badge/Pawn-San_Andreas_MultiPlayer_Developer-007DDA?style=for-the-badge&logo=pawno&logoColor=purple&labelColor=white)</br>
 
 ## 💙 Languages i'm currently learning:
 
