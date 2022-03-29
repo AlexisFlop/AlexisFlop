@@ -1,7 +1,7 @@
 ## Hi there
 ### I'm Henry Alexis Flores Lopez, but you can call me AlexisFlop 👋
 
-🔹 I'm a Universidad Centro Americana Jose Simeon Cañas student, El Salvador.
+🔹 I'm a Universidad Centro Americana Jose Simeon Cañas student, from El Salvador.
 
 ## ❤ Languages i learned to use:
 
